@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cbc6a19-363e-4148-be90-64bee6fcb2f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i7Nn3Kos3GsYfLIRNsi7RUujuy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Shift">
+    <configuration name="Shift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shift" />
+      <module name="9.28" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaquiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaquiz" />
+      <module name="9.28" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Shift" />
+        <item itemvalue="Application.javaquiz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cbc6a19-363e-4148-be90-64bee6fcb2f1" name="Default Changelist" comment="" />
+      <created>1601254833775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601254833775</updated>
+      <workItem from="1601254853440" duration="5774000" />
+      <workItem from="1601260759764" duration="138000" />
+      <workItem from="1601260907402" duration="222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="201" key="GridCell.Tab.0.bottom" timestamp="1601261128992">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="201" key="GridCell.Tab.0.bottom/-3600.0.1680.1050/-1920.0.1920.1080/0.0.1536.960@-1920.0.1920.1080" timestamp="1601260897272" />
+    <state width="1878" height="201" key="GridCell.Tab.0.bottom/-3600.25.1680.1025/-1920.0.1920.1080/0.25.1536.935@-1920.0.1920.1080" timestamp="1601261128992" />
+    <state width="1878" height="201" key="GridCell.Tab.0.center" timestamp="1601261128991">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="201" key="GridCell.Tab.0.center/-3600.0.1680.1050/-1920.0.1920.1080/0.0.1536.960@-1920.0.1920.1080" timestamp="1601260897270" />
+    <state width="1878" height="201" key="GridCell.Tab.0.center/-3600.25.1680.1025/-1920.0.1920.1080/0.25.1536.935@-1920.0.1920.1080" timestamp="1601261128991" />
+    <state width="1878" height="201" key="GridCell.Tab.0.left" timestamp="1601261128990">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="201" key="GridCell.Tab.0.left/-3600.0.1680.1050/-1920.0.1920.1080/0.0.1536.960@-1920.0.1920.1080" timestamp="1601260897268" />
+    <state width="1878" height="201" key="GridCell.Tab.0.left/-3600.25.1680.1025/-1920.0.1920.1080/0.25.1536.935@-1920.0.1920.1080" timestamp="1601261128990" />
+    <state width="1878" height="201" key="GridCell.Tab.0.right" timestamp="1601261128991">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="201" key="GridCell.Tab.0.right/-3600.0.1680.1050/-1920.0.1920.1080/0.0.1536.960@-1920.0.1920.1080" timestamp="1601260897271" />
+    <state width="1878" height="201" key="GridCell.Tab.0.right/-3600.25.1680.1025/-1920.0.1920.1080/0.25.1536.935@-1920.0.1920.1080" timestamp="1601261128991" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1601260643294">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/-3600.0.1680.1050/-1920.0.1920.1080/0.0.1536.960@-1920.0.1920.1080" timestamp="1601260643294" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1601260643291">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/-3600.0.1680.1050/-1920.0.1920.1080/0.0.1536.960@-1920.0.1920.1080" timestamp="1601260643291" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1601260643287">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/-3600.0.1680.1050/-1920.0.1920.1080/0.0.1536.960@-1920.0.1920.1080" timestamp="1601260643287" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1601260643292">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/-3600.0.1680.1050/-1920.0.1920.1080/0.0.1536.960@-1920.0.1920.1080" timestamp="1601260643292" />
+  </component>
+</project>
