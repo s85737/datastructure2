@@ -7,6 +7,7 @@
 
 #ifndef treeNode_h
 #define treeNode_h
+#define RandBig() (rand()*rand())
 
 typedef int element;
 
@@ -39,6 +40,15 @@ TreeNode* insertNode(TreeNode* node, int key){
     else if(key > node -> key) node -> right = insertNode(node -> right, key);
     
     return node;
+}
+
+double BSTSrchAvgTime(TreeNode* root, int n, int iter){
+    int i;
+    clock_t t0, t1;
+    t0 = clock();
+    for(i = 0; i < iter; i++) treeSearch(root, RandBig());
+    t1 = clock();
+    return (double)(t1-t0) / (CLOCKS_PER_SEC * iter);
 }
 
 

@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88517fe7-5d8f-4510-b822-4d563e7fafd0" name="Default Changelist" comment="" />
+    <list default="true" id="88517fe7-5d8f-4510-b822-4d563e7fafd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/Element.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/Element.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/Element_H.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/IntegerSet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/IntegerSet.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/IntegerSet_H.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/AVLNode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/AVLTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/AVLexam.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequental.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/date/date.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/date/date.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/oop/oop.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/oop/oop.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/oop/oop.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/oop/oop.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/oop/oop/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/oop/oop/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/과제1/과제1-2/과제1-2.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/과제1/과제1-2/과제1-2.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/과제1/과제1.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/과제1/과제1.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/실습/실습.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/실습/실습.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/큰수/큰수.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/큰수/큰수.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/AVLTree과제/AVLTree과제.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/AVLTree과제/AVLTree과제.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/AVLTree과제/AVLTree과제.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/AVLTree과제/AVLTree과제.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/AVLtree/AVLtree.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/AVLtree/AVLtree.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1/treeNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/treeNode.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +55,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ijHds6s30oeai7DxZ2b0EiR0oV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +69,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -64,6 +110,7 @@
       <workItem from="1602483582095" duration="769000" />
       <workItem from="1603185972508" duration="63000" />
       <workItem from="1603189315612" duration="9000" />
+      <workItem from="1604309387985" duration="485000" />
     </task>
     <servers />
   </component>

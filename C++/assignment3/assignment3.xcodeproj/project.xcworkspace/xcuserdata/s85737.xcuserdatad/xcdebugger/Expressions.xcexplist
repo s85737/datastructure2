@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "intersection(IntegerSet, IntegerSet):IntegerSet.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "IntegerSet::setPrint():IntegerSet.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sizeof(*elementArray) / sizeof(Element)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "intUnion(IntegerSet, IntegerSet):IntegerSet.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "setB.elementArray[bIndex].getFlag()">
+            </PersistentString>
+            <PersistentString
+               value = "setB.elementArray[bIndex].getElement()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IntegerSet::inputSet():IntegerSet.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "elementArray[0]">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(*elementArray)">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(Element)">
+            </PersistentString>
+            <PersistentString
+               value = "elementArray[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Element::getElement():Element.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "difference(IntegerSet, IntegerSet):IntegerSet.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "setB">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

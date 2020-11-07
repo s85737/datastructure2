@@ -62,8 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				3E90C57D25358B490093F47F /* main.c */,
-				3EC4B7E22540150400D9EDC0 /* BST.c */,
 				3EC4B7E52540161B00D9EDC0 /* array.c */,
+				3EC4B7E22540150400D9EDC0 /* BST.c */,
 			);
 			path = "AVLTree과제";
 			sourceTree = "<group>";

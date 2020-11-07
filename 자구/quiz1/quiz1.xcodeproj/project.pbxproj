@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E4F723E254E45A100B4C0CF /* sequential.c in Sources */ = {isa = PBXBuildFile; fileRef = 3E4F723D254E45A100B4C0CF /* sequential.c */; };
 		3EC4B7DA2540125D00D9EDC0 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 3EC4B7D92540125D00D9EDC0 /* main.c */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3E4F7237254DB05F00B4C0CF /* AVLexam.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AVLexam.h; sourceTree = "<group>"; };
+		3E4F723D254E45A100B4C0CF /* sequential.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = sequential.c; sourceTree = "<group>"; };
 		3EC4B7D62540125D00D9EDC0 /* quiz1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = quiz1; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EC4B7D92540125D00D9EDC0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		3EC4B7EA2540224C00D9EDC0 /* treeNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = treeNode.h; sourceTree = "<group>"; };
@@ -60,6 +63,8 @@
 			children = (
 				3EC4B7D92540125D00D9EDC0 /* main.c */,
 				3EC4B7EA2540224C00D9EDC0 /* treeNode.h */,
+				3E4F7237254DB05F00B4C0CF /* AVLexam.h */,
+				3E4F723D254E45A100B4C0CF /* sequential.c */,
 			);
 			path = quiz1;
 			sourceTree = "<group>";
@@ -120,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E4F723E254E45A100B4C0CF /* sequential.c in Sources */,
 				3EC4B7DA2540125D00D9EDC0 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

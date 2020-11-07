@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3E51EDD425472AB40017A7FA /* inf_int.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E51EDD025472AB40017A7FA /* inf_int.cpp */; };
-		3E51EDD525472AB40017A7FA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E51EDD125472AB40017A7FA /* main.cpp */; };
-		3E51EDD625472AB40017A7FA /* Calculator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E51EDD225472AB40017A7FA /* Calculator.cpp */; };
+		3E4F7271254EA12200B4C0CF /* Calculator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E4F726D254EA12200B4C0CF /* Calculator.cpp */; };
+		3E4F7272254EA12200B4C0CF /* inf_int.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E4F726F254EA12200B4C0CF /* inf_int.cpp */; };
+		3E4F7273254EA12200B4C0CF /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E4F7270254EA12200B4C0CF /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,12 +25,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3E4F726C254EA12200B4C0CF /* inf_int.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = inf_int.h; sourceTree = "<group>"; };
+		3E4F726D254EA12200B4C0CF /* Calculator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Calculator.cpp; sourceTree = "<group>"; };
+		3E4F726E254EA12200B4C0CF /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
+		3E4F726F254EA12200B4C0CF /* inf_int.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = inf_int.cpp; sourceTree = "<group>"; };
+		3E4F7270254EA12200B4C0CF /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		3E51EDC425472AA50017A7FA /* oop */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = oop; sourceTree = BUILT_PRODUCTS_DIR; };
-		3E51EDCF25472AB40017A7FA /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Calculator.h; path = ../../../../../Downloads/OOP_pj2/Calculator.h; sourceTree = "<group>"; };
-		3E51EDD025472AB40017A7FA /* inf_int.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = inf_int.cpp; path = ../../../../../Downloads/OOP_pj2/inf_int.cpp; sourceTree = "<group>"; };
-		3E51EDD125472AB40017A7FA /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../../../../../Downloads/OOP_pj2/main.cpp; sourceTree = "<group>"; };
-		3E51EDD225472AB40017A7FA /* Calculator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Calculator.cpp; path = ../../../../../Downloads/OOP_pj2/Calculator.cpp; sourceTree = "<group>"; };
-		3E51EDD325472AB40017A7FA /* inf_int.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = inf_int.h; path = ../../../../../Downloads/OOP_pj2/inf_int.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,11 +63,11 @@
 		3E51EDC625472AA50017A7FA /* oop */ = {
 			isa = PBXGroup;
 			children = (
-				3E51EDD225472AB40017A7FA /* Calculator.cpp */,
-				3E51EDCF25472AB40017A7FA /* Calculator.h */,
-				3E51EDD025472AB40017A7FA /* inf_int.cpp */,
-				3E51EDD325472AB40017A7FA /* inf_int.h */,
-				3E51EDD125472AB40017A7FA /* main.cpp */,
+				3E4F726D254EA12200B4C0CF /* Calculator.cpp */,
+				3E4F726E254EA12200B4C0CF /* Calculator.h */,
+				3E4F726F254EA12200B4C0CF /* inf_int.cpp */,
+				3E4F726C254EA12200B4C0CF /* inf_int.h */,
+				3E4F7270254EA12200B4C0CF /* main.cpp */,
 			);
 			path = oop;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3E51EDD625472AB40017A7FA /* Calculator.cpp in Sources */,
-				3E51EDD425472AB40017A7FA /* inf_int.cpp in Sources */,
-				3E51EDD525472AB40017A7FA /* main.cpp in Sources */,
+				3E4F7271254EA12200B4C0CF /* Calculator.cpp in Sources */,
+				3E4F7272254EA12200B4C0CF /* inf_int.cpp in Sources */,
+				3E4F7273254EA12200B4C0CF /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

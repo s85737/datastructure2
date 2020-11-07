@@ -9,64 +9,21 @@
 #include <stdlib.h>
 #include <time.h>
 #include "treeNode.h"
+#include "AVLexam.h"
 #define RandBig() (rand()*rand())
 
-//100만개 150만개 200만게 계쏙해서 증가
-
-
-
-int sequentialSearch(int list[], int n, int ranKey){
-    int i;
-    for (i = 0; i < n; i++) if(list[i] == ranKey) return i;
-    return -1;
-}
-
-double seqSrchAvgTime(int* list, int n, int iter){
-    int i;
-    clock_t t0, t1;
-    t0 = clock();
-    for(i = 0; i < iter; i++) sequentialSearch(list, n, RandBig());
-    t1 = clock();
-    return (double)(t1-t0) / (CLOCKS_PER_SEC * iter);
-}
-
-double BSTSrchAvgTime(TreeNode* root, int n, int iter){
-    int i;
-    clock_t t0, t1;
-    t0 = clock();
-    for(i = 0; i < iter; i++) root = treeSearch(root, RandBig());
-    t1 = clock();
-    return (double)(t1-t0) / (CLOCKS_PER_SEC * iter);
-}
+//100만개 150만개 200만게 계속해서 증가
 
 
 
 int main(int argc, const char * argv[]) {
     
     unsigned int whatTime;
-    unsigned int value;
     double duration;
     clock_t t0, t1;
     printf("난수발생 횟수 입력 : ");
     scanf("%d", &whatTime);
     srand((unsigned int)time(NULL));
-    
-    int* arr;
-    
-    arr = (int *)malloc(sizeof(int) * whatTime);
-    
-    printf("sequential Search\n");
-    for(int i = 1; i < 21; i++){
-        arr = (int *)realloc(arr, sizeof(int) * whatTime * i);
-        printf("%d회 생성", (whatTime * i));
-        for(int j = 0; j < (whatTime * i); j++){
-            value = rand() % 100;
-            arr[j] = value;
-        }
-        duration = seqSrchAvgTime(arr, whatTime, 50);
-        printf("\t%lf초 \n\n", duration);
-        
-            }
     
     printf("BSTree Insert and Search\n ");
     
@@ -76,17 +33,41 @@ int main(int argc, const char * argv[]) {
         printf("%d회 생성", (whatTime * i));
         
         t0 = clock();
-        for(int j = 0; j < whatTime * i; j++) root = insertNode(root, RandBig());
+        for(int j = 0; j < whatTime * i; j++) root = insertNode(root, RandBig()); // 정해진 횟수 * i 번 만큼 삽입 최대 20배 높은 수만큼 삽입
         t1 = clock();
-        duration = (double)(t1-t0) / (CLOCKS_PER_SEC * 500000);
+        duration = (double)(t1-t0) / (CLOCKS_PER_SEC);
         printf("\t\t%d회 insert", (whatTime * i));
         printf("\t%lf초", duration);
         
         
-        duration = BSTSrchAvgTime(root, whatTime, 500000);
+        duration = BSTSrchAvgTime(root, whatTime, 100000);
         printf("\t\tsearch", (whatTime * i));
         printf("\t%lf초 \n\n", duration);
-        free(root);
+        free(root); //정해진 insert가 다 끝나면 처음부터 다시 삽입하기 위해 root 초기화
+        root = NULL;
+        
+    }
+    
+    
+    printf("AVL Insert and Search\n ");
+    
+    Node* AVLroot = NULL;
+    
+    for(int i = 1; i < 21; i++){
+        printf("%d회 생성", (whatTime * i));
+        
+        t0 = clock();
+        for(int j = 0; j < whatTime * i; j++) AVLroot = AVLinsert(AVLroot, RandBig()); // 정해진 횟수 * i 번 만큼 삽입 최대 20배 높은 수만큼 삽입
+        t1 = clock();
+        duration = (double)(t1-t0) / (CLOCKS_PER_SEC);
+        printf("\t\t%d회 insert", (whatTime * i));
+        printf("\t%lf초", duration);
+        
+        
+        duration = AVLSrchAvgTime(AVLroot, whatTime, 100000);
+        printf("\t\tsearch", (whatTime * i));
+        printf("\t%lf초 \n\n", duration);
+        //정해진 insert가 다 끝나면 처음부터 다시 삽입하기 위해 root 초기화
         root = NULL;
         
     }
