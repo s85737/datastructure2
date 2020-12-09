@@ -7,7 +7,8 @@
 
 package phonebook;
 
-import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Iterator;
 import java.util.Scanner;
 
 public class PhoneBook {
@@ -15,7 +16,7 @@ public class PhoneBook {
     private String memberName;
     private String phoneNumber;
     private String myRequest;
-    private ArrayList<Phone> memberList = new ArrayList<>();
+    private HashSet<Phone> memberList = new HashSet<Phone>();
     private Scanner scanner = new Scanner(System.in);
 
     /**
@@ -48,11 +49,13 @@ public class PhoneBook {
         myRequest = scanner.next();
 
         if(!myRequest.equals("그만")){
-
-            for (Phone p : memberList){
-                if(p.getMemberName().equals(myRequest)){
-                    System.out.println(p.getMemberName()+"의 번호는 "+p.getPhoneNumber()+"입니다.");
+            Iterator<Phone> itr = memberList.iterator();
+            while(itr.hasNext()){
+                Phone thisMember = itr.next();
+                if(thisMember.getMemberName().equals(myRequest)){
+                    System.out.println(thisMember.getMemberName()+"의 번호는 "+thisMember.getPhoneNumber()+"입니다.");
                     searchMember();
+                    thisMember = null;
                 }
             }
 
@@ -63,6 +66,14 @@ public class PhoneBook {
             System.exit(1);
         }
 
+    }
+
+    public void printMember(){
+            Iterator<Phone> itr = memberList.iterator();
+            while(itr.hasNext()){
+                Phone thisMember = itr.next();
+                    System.out.println(thisMember.getMemberName()+"의 번호는 "+thisMember.getPhoneNumber()+"입니다.");
+                }
     }
 
     /**
@@ -77,8 +88,11 @@ public class PhoneBook {
         Scanner scanner = new Scanner(System.in);
         System.out.print("인원수>> ");
         memberNumber = scanner.nextInt();
+
+
         phoneBook.setMemberList(memberNumber);
         phoneBook.searchMember();
+        phoneBook.printMember();
 
     }
 

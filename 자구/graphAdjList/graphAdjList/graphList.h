@@ -13,17 +13,17 @@ typedef struct graphNode{
     struct graphNode* link;
 }graphNode;
 
-typedef struct Graph {
+typedef struct GraphList {
     int V;
     int E;
     struct graphNode** Adj;
-}Graph;
+}GraphList;
 
 
 
-Graph* adjList(int v, int e) {
+GraphList* adjList(int v, int e) {
     
-    Graph* G = (Graph*)malloc(sizeof(Graph*));
+    GraphList* G = (GraphList*)malloc(sizeof(GraphList*));
     
     G -> V = v;
     G -> E = e;
@@ -40,7 +40,7 @@ Graph* adjList(int v, int e) {
 
 }
 
-Graph* insertNode(Graph* G){
+GraphList* insertListNode(GraphList* G){
     
     graphNode* temp;
     int u, v;
@@ -65,7 +65,7 @@ Graph* insertNode(Graph* G){
     return G;
 }
 
-Graph* insertDirect(Graph* G, int u, int v){
+GraphList* insertListDirect(GraphList* G, int u, int v){
     graphNode* temp;
     
     if (u >= G -> V || v >= G -> V){
@@ -83,7 +83,7 @@ Graph* insertDirect(Graph* G, int u, int v){
     
 }
 
-void deleteList(Graph** G){
+void deleteList(GraphList** G){
     graphNode* auxiliaryNode, *iterator;
     
     for(int i =0; i < (*G) -> V; i++)
@@ -106,7 +106,7 @@ void deleteList(Graph** G){
 
 }
 
-void printAdjList(Graph* G){
+void printAdjList(GraphList* G){
     printf("\n Adjacency List of Graph\n");
     if(G == NULL)
     {

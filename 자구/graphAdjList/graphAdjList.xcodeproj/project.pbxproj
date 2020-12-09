@@ -23,9 +23,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3E49F1A7257A151C00D9D68D /* quiz_matrix.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = quiz_matrix.h; sourceTree = "<group>"; };
 		3EBBD2252556B29F0038BF91 /* graphAdjList */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = graphAdjList; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EBBD2282556B29F0038BF91 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		3EBBD2302556B2AE0038BF91 /* graphList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graphList.h; sourceTree = "<group>"; };
+		3EE08E5025761EF300B0630E /* queueLinked.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = queueLinked.h; sourceTree = "<group>"; };
+		3EE08E5425762D3200B0630E /* insert.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = insert.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +60,10 @@
 		3EBBD2272556B29F0038BF91 /* graphAdjList */ = {
 			isa = PBXGroup;
 			children = (
+				3EE08E5425762D3200B0630E /* insert.txt */,
 				3EBBD2282556B29F0038BF91 /* main.c */,
-				3EBBD2302556B2AE0038BF91 /* graphList.h */,
+				3EE08E5025761EF300B0630E /* queueLinked.h */,
+				3E49F1A7257A151C00D9D68D /* quiz_matrix.h */,
 			);
 			path = graphAdjList;
 			sourceTree = "<group>";

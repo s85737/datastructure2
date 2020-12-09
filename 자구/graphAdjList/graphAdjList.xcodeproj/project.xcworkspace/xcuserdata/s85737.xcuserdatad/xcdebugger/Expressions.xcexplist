@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "deleteList:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "G -&gt; Adj[2]">
+            </PersistentString>
+            <PersistentString
+               value = "G -&gt; Adj[4]">
+            </PersistentString>
+            <PersistentString
+               value = "G -&gt; Adj[1]">
+            </PersistentString>
+            <PersistentString
+               value = "G -&gt; Adj[3]">
+            </PersistentString>
+            <PersistentString
+               value = "G -&gt; Adj[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BFSMat:quiz_matrix.h">
+      </ContextState>
+      <ContextState
+         contextName = "printAdjList:main.c">
+      </ContextState>
+      <ContextState
+         contextName = "connected:quiz_matrix.h">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

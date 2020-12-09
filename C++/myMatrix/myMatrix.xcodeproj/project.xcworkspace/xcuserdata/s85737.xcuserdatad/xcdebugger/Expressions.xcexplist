@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MyMatrix::operator*(MyMatrix const&amp;):MyMatrix.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "right -&gt; matrix[0][2]">
+            </PersistentString>
+            <PersistentString
+               value = "this -&gt; matrix[0][1]">
+            </PersistentString>
+            <PersistentString
+               value = "right -&gt; matrix[1][0]">
+            </PersistentString>
+            <PersistentString
+               value = "right -&gt; matrix[0][1]">
+            </PersistentString>
+            <PersistentString
+               value = "this -&gt; matrix[0][0]">
+            </PersistentString>
+            <PersistentString
+               value = "this -&gt; matrix[1][1]">
+            </PersistentString>
+            <PersistentString
+               value = "right -&gt; matrix[0][0]">
+            </PersistentString>
+            <PersistentString
+               value = "this -&gt; matrix[1][0]">
+            </PersistentString>
+            <PersistentString
+               value = "this -&gt; matrix[0][2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

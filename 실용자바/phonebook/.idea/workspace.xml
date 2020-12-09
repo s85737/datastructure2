@@ -2,46 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88517fe7-5d8f-4510-b822-4d563e7fafd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/Element.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/Element.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/Element_H.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/IntegerSet.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/IntegerSet.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/IntegerSet_H.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/AVLNode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/AVLTree.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/AVLexam.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequental.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/sequential/sequential/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/date/date.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/date/date.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/oop/oop.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/oop/oop.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/oop/oop.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/oop/oop.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/oop/oop/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/oop/oop/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/과제1/과제1-2/과제1-2.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/과제1/과제1-2/과제1-2.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/과제1/과제1.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/과제1/과제1.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/실습/실습.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/실습/실습.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C++/큰수/큰수.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/큰수/큰수.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/xcdebugger/Expressions.xcexplist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix/MyMatrix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/myMatrix/myMatrix/myMatrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Circle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Circle.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Coordinate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Coordinate.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Cube.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Cube.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Shape.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Shape.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Sphere.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Sphere.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Sqaure.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/Sqaure.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/virtual/virtual/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/26/26.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/26/26.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/26/26.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/26/26.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/26/26.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/xcdebugger/Expressions.xcexplist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/26/26.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/26/26.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/26/26/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/xcdebugger/Expressions.xcexplist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/adjList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/adjMatrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/insert.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/listQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/queueLinked.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/queueList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/quiz_matrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/untitled.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz2/quiz2.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz2/quiz2.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz2/quiz2.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz2/quiz2.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz2/quiz2.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz2/quiz2.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiz2/quiz2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiztest/quiztest.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiztest/quiztest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiztest/quiztest.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiztest/quiztest.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/quiztest/quiztest.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting/BST.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting/BSsort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting/heapArray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting/mergeSort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/sorting/sorting/quickSort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/swap/swap.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/swap/swap.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/swap/swap.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/swap/swap.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/swap/swap.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/swap/swap.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/swap/swap/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/실습12.4/실습12.4.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/실습12.4/실습12.4.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/실습12.4/실습12.4.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/실습12.4/실습12.4.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/실습12.4/실습12.4.xcodeproj/xcuserdata/s85737.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../자구/실습12.4/실습12.4/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/assignment3/assignment3.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../자구/AVLTree과제/AVLTree과제.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/AVLTree과제/AVLTree과제.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phonebook/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phonebook/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phonebook/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/phonebook/PhoneBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../자구/AVLTree과제/AVLTree과제.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/AVLTree과제/AVLTree과제.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../자구/AVLtree/AVLtree.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/AVLtree/AVLtree.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1.xcodeproj/xcuserdata/s85737.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../자구/quiz1/quiz1/treeNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/quiz1/quiz1/treeNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/binarysearchtree/binarysearchtree.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/binarysearchtree/binarysearchtree.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/graphList.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/graphList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/graphAdjList/graphAdjList/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../자구/heapinsert/heapinsert.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../자구/heapinsert/heapinsert.xcodeproj/project.xcworkspace/xcuserdata/s85737.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +166,7 @@
       <workItem from="1603185972508" duration="63000" />
       <workItem from="1603189315612" duration="9000" />
       <workItem from="1604309387985" duration="485000" />
+      <workItem from="1607304444438" duration="3747000" />
     </task>
     <servers />
   </component>
@@ -122,26 +178,50 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="496" y="235" key="#Project_Structure/-1016.178.1016.721/0.25.1792.1095@0.25.1792.1095" timestamp="1602414196337" />
-    <state width="1494" height="300" key="GridCell.Tab.0.bottom" timestamp="1602474436919">
-      <screen x="0" y="25" width="1536" height="935" />
+    <state width="432" height="466" key="DebuggerActiveHint" timestamp="1607307671285">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
+    </state>
+    <state width="432" height="466" key="DebuggerActiveHint/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607307671285" />
+    <state width="1878" height="210" key="GridCell.Tab.0.bottom" timestamp="1607308202330">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
     </state>
     <state width="1750" height="300" key="GridCell.Tab.0.bottom/-1016.178.1016.721/0.25.1792.1095@0.25.1792.1095" timestamp="1602422206571" />
+    <state width="1878" height="210" key="GridCell.Tab.0.bottom/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607308202330" />
     <state width="1494" height="300" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1536.935/-3600.25.1680.1025@0.25.1536.935" timestamp="1602474436919" />
-    <state width="1494" height="300" key="GridCell.Tab.0.center" timestamp="1602474436917">
-      <screen x="0" y="25" width="1536" height="935" />
+    <state width="1878" height="210" key="GridCell.Tab.0.center" timestamp="1607308202329">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
     </state>
     <state width="1750" height="300" key="GridCell.Tab.0.center/-1016.178.1016.721/0.25.1792.1095@0.25.1792.1095" timestamp="1602422206570" />
+    <state width="1878" height="210" key="GridCell.Tab.0.center/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607308202329" />
     <state width="1494" height="300" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1536.935/-3600.25.1680.1025@0.25.1536.935" timestamp="1602474436917" />
-    <state width="1494" height="300" key="GridCell.Tab.0.left" timestamp="1602474436917">
-      <screen x="0" y="25" width="1536" height="935" />
+    <state width="1878" height="210" key="GridCell.Tab.0.left" timestamp="1607308202329">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
     </state>
     <state width="1750" height="300" key="GridCell.Tab.0.left/-1016.178.1016.721/0.25.1792.1095@0.25.1792.1095" timestamp="1602422206569" />
+    <state width="1878" height="210" key="GridCell.Tab.0.left/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607308202329" />
     <state width="1494" height="300" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1536.935/-3600.25.1680.1025@0.25.1536.935" timestamp="1602474436917" />
-    <state width="1494" height="300" key="GridCell.Tab.0.right" timestamp="1602474436918">
-      <screen x="0" y="25" width="1536" height="935" />
+    <state width="1878" height="210" key="GridCell.Tab.0.right" timestamp="1607308202329">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
     </state>
     <state width="1750" height="300" key="GridCell.Tab.0.right/-1016.178.1016.721/0.25.1792.1095@0.25.1792.1095" timestamp="1602422206571" />
+    <state width="1878" height="210" key="GridCell.Tab.0.right/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607308202329" />
     <state width="1494" height="300" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1536.935/-3600.25.1680.1025@0.25.1536.935" timestamp="1602474436918" />
+    <state width="1878" height="210" key="GridCell.Tab.1.bottom" timestamp="1607308202331">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="210" key="GridCell.Tab.1.bottom/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607308202331" />
+    <state width="1878" height="210" key="GridCell.Tab.1.center" timestamp="1607308202330">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="210" key="GridCell.Tab.1.center/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607308202330" />
+    <state width="1878" height="210" key="GridCell.Tab.1.left" timestamp="1607308202330">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="210" key="GridCell.Tab.1.left/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607308202330" />
+    <state width="1878" height="210" key="GridCell.Tab.1.right" timestamp="1607308202331">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="210" key="GridCell.Tab.1.right/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607308202331" />
     <state x="-1571" y="312" key="com.intellij.ide.util.TipDialog" timestamp="1603189315618">
       <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
@@ -153,9 +233,24 @@
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="299" y="192" key="new project wizard/-1016.178.1016.721/0.25.1792.1095@0.25.1792.1095" timestamp="1602417138606" />
-    <state x="561" y="269" width="670" height="676" key="search.everywhere.popup" timestamp="1602417118777">
-      <screen x="0" y="25" width="1792" height="1095" />
+    <state x="-1319" y="140" width="718" height="652" key="search.everywhere.popup" timestamp="1607306068004">
+      <screen x="-1920" y="-95" width="1920" height="1055" />
     </state>
     <state x="561" y="269" width="670" height="676" key="search.everywhere.popup/-1016.178.1016.721/0.25.1792.1095@0.25.1792.1095" timestamp="1602417118777" />
+    <state x="-1319" y="140" width="718" height="652" key="search.everywhere.popup/-1920.-95.1920.1055/0.25.1536.935@-1920.-95.1920.1055" timestamp="1607306068004" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/phonebook/PhoneBook.java</url>
+          <line>82</line>
+          <properties class="phonebook.PhoneBook" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
